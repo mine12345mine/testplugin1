@@ -18,7 +18,6 @@ namespace testplugin1
         private void Awake()
         {
             UnityEngine.Debug.Log("Hello, world!");
-            // キーメニュー
             keyTest1 = Config.Bind("Hotkeys", "Testkey", new KeyboardShortcut(KeyCode.J), new ConfigDescription("説明文"));
         }
         private void OnGUI()
