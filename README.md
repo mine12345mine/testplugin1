@@ -4,7 +4,7 @@
 [本家BepInExチュートリアル](https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/)<br>
 [BepInExAPI](https://docs.bepinex.dev/api/index.html)
 
-### 1. Visual Studio Installerの「.NETデスクトップ開発」をインストールしておく
+### 1. Visual Studio Installerから「.NETデスクトップ開発」をインストールしておく
 <img src="./image/1.png" width="640px">
 
 ### 2.クラスライブラリ(.NET Framework)のプロジェクトを作成
