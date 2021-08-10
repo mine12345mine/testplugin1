@@ -4,7 +4,7 @@
 [本家BepInExチュートリアル](https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/)<br>
 [BepInExAPI](https://docs.bepinex.dev/api/index.html)
 
-### 1. Visual Studio Installerの.NETデスクトップ開発をインストールしておく
+### 1. Visual Studio Installerの「.NETデスクトップ開発」をインストールしておく
 <img src="./image/1.png" width="640px">
 
 ### 2.クラスライブラリ(.NET Framework)のプロジェクトを作成
@@ -33,6 +33,10 @@ F1からプラグイン設定画面を表示し、登録されていることを
 <br>
 実際に実行して確認
 <img src="./image/9.png" width="640px">
+
+「補足」<br>
+スタジオを実行したらBepInEx/config配下に設定ファイルが作成される。<br>
+ボタン配置の変更のみだと更新されない？可能性あり。<br>
 
 
 以上！
