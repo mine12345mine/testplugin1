@@ -17,7 +17,7 @@
 ### 4.ソリューションエクスプローラーから参照の追加
 <img src="./image/4.png" width="640px">
 
-### 5.「0Harmony」「BepInEx」「Assembly-CSharp」「UnityEngine」を追加
+### 5.「0Harmony」「BepInEx」「UnityEngine」を追加
 <img src="./image/5.png" width="640px">
 
 ### 6.ソースコード記述（Class1.cs）
